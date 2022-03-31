@@ -9,7 +9,6 @@
 
 - [About](#-about)
 - [Tools](#%EF%B8%8F-tools)
-- [Setup](#%EF%B8%8F-how-to-setup)
 
 <!-- INFO -->
 <h2>📝 About</h2>
@@ -31,33 +30,6 @@
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://www.ecma-international.org)
-
-<!-- SETUP -->
-<h2>🖥️ How to setup</h2>
-
-```bash
-    # Clone the complete repository
-    $ git clone https://github.com/aliriorios/javascript-projects.git
-```
-
-<p align="center">or</p>
-
-```bash
-    # Download ZIP repository
-    $ git download https://github.com/aliriorios/javascript-projects/archive/refs/heads/main.zip
-```
-
-```bash
-    # Enter directory
-    $ cd javascript-projects
-```
-
-<p align="center">or</p>
-
-```bash
-    # Enter directory
-    $ cd <project name>
-```
 
 <hr>
 
