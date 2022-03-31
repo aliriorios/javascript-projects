@@ -7,7 +7,10 @@
 <!-- INDEX -->
 <h2>📇 Index:</h2>
 
-- [About](link)
+- [About](#-about)
+- [Tools](#%EF%B8%8F-tools)
+- [Setup](#%EF%B8%8F-how-to-setup)
+- [License](#-license)
 
 <!-- INFO -->
 <h2>📝 About</h2>
@@ -36,19 +39,26 @@
 <p align="center">or</p>
 
 ```bash
-    # Clone the project
-    $ git clone 
+    # Download ZIP repository
+    $ git download https://github.com/aliriorios/javascript-projects/archive/refs/heads/main.zip
 ```
 
 ```bash
     # Enter directory
-    $ cd 
+    $ cd javascript-projects
+```
+
+<p align="center">or</p>
+
+```bash
+    # Enter directory
+    $ cd <project name>
 ```
 
 <!-- LICENSE -->
 <h2>🧾 License</h2>
 
-> This project is under the MIT license. See the file <a href="">LICENCE</a> for more details.
+> This project is under the MIT license. See the file <a href="https://github.com/aliriorios/javascript-projects/blob/main/stopwatch-js/LICENSE">LICENCE</a> for more details.
 
 <hr>
 
