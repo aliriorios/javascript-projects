@@ -10,21 +10,23 @@
 - [About](#-about)
 - [Tools](#%EF%B8%8F-tools)
 - [Setup](#%EF%B8%8F-how-to-setup)
-- [License](#-license)
 
 <!-- INFO -->
 <h2>📝 About</h2>
 
-> Status: Completed. ✅
+> ### Status:
+> Completed ✅
 
-> Description: A basic JavaScript application in a small **calculator project**. 🖩
+> ### Description:
+> A basic JavaScript application in a small **calculator project**. 🖩
 
-> Features: Perform simple calculations by entering values and choosing operations. 📰
+> ### Features:
+> Perform simple calculations by entering values and choosing operations. 📰
 
 <!-- TOOLS -->
 <h2>🛠️ Tools</h2>
 
-> Languages:
+> ### Languages:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
