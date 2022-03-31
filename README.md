@@ -4,6 +4,14 @@
     <img src="https://media.discordapp.net/attachments/958785083630841856/959080254343905280/1_L_QoAG863l8QvqxpNyBiqw.gif" width="700px"> <!-- gif -->
 </h1>
 
+<!-- INDEX -->
+<h2>📇 Index:</h2>
+
+- [About](#-about)
+- [Tools](#%EF%B8%8F-tools)
+- [Setup](#%EF%B8%8F-how-to-setup)
+- [License](#-license)
+
 <!-- INFO -->
 <h2>📝 About</h2>
 
