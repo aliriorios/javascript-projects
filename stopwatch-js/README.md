@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">
-    <p>New Year's Stopwatch</p> <!-- title -->
-    <img src="" width="500px"> <!-- gif -->
+    <p>New Year's Stopwatch</p> 
+    <img src="" width="500px"> 
 </h1>
 
 <!-- INDEX -->
@@ -15,9 +15,11 @@
 <!-- INFO -->
 <h2>📝 About</h2>
 
-> Status: In Progress ⚠️ <!-- Completed ✅ or In Progress ⚠️ -->
+> Status: In Progress ⚠️ 
 
-> Description:  <!-- Resume+icon **strong** --> 
+> Description:  
+
+> Features: 
 
 <!-- TOOLS -->
 <h2>🛠️ Tools</h2> <!-- Language + documentation link -->
@@ -26,7 +28,7 @@
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [JavaScript](https://www.ecma-international.org)
 
 <!-- SETUP -->
 <h2>🖥️ How to setup</h2>
@@ -54,11 +56,6 @@
     # Enter directory
     $ cd <project name>
 ```
-
-<!-- LICENSE -->
-<h2>🧾 License</h2>
-
-> This project is under the MIT license. See the file <a href="https://github.com/aliriorios/javascript-projects/blob/main/stopwatch-js/LICENSE">LICENCE</a> for more details.
 
 <hr>
 

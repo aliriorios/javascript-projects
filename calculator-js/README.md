@@ -4,6 +4,7 @@
     <img src="https://media.discordapp.net/attachments/958785083630841856/958785892603011142/Animacao.gif" width="500px">
 </h1>
 
+<!-- INDEX -->
 <h2>📇 Index:</h2>
 
 - [About](#-about)
@@ -25,9 +26,9 @@
 
 > Languages:
 
-- HTML
-- CSS
-- JavaScript
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://www.ecma-international.org)
 
 <!-- SETUP -->
 <h2>🖥️ How to setup</h2>
@@ -55,11 +56,6 @@
     # Enter directory
     $ cd <project name>
 ```
-
-<!-- LICENSE -->
-<h2>🧾 License</h2>
-
-> This project is under the MIT license. See the file <a href="https://github.com/aliriorios/calculator-js/blob/main/LICENSE">LICENCE</a> for more details.
 
 <hr>
 
