@@ -29,16 +29,31 @@
 - CSS
 - JavaScript
 
+<!-- SETUP -->
 <h2>🖥️ How to setup</h2>
 
 ```bash
-    # Clone the project
-    $ git clone https://github.com/aliriorios/calculator-js.git
+    # Clone the complete repository
+    $ git clone https://github.com/aliriorios/javascript-projects.git
+```
+
+<p align="center">or</p>
+
+```bash
+    # Download ZIP repository
+    $ git download https://github.com/aliriorios/javascript-projects/archive/refs/heads/main.zip
 ```
 
 ```bash
     # Enter directory
-    $ cd calculator-js
+    $ cd javascript-projects
+```
+
+<p align="center">or</p>
+
+```bash
+    # Enter directory
+    $ cd <project name>
 ```
 
 <!-- LICENSE -->
