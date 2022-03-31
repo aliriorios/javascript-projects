@@ -4,12 +4,6 @@
     <img src="https://media.discordapp.net/attachments/958785083630841856/959080254343905280/1_L_QoAG863l8QvqxpNyBiqw.gif" width="700px"> <!-- gif -->
 </h1>
 
-<!-- INDEX -->
-<h2>📇 Index:</h2>
-
-- [About](link)
-
-
 <!-- INFO -->
 <h2>📝 About</h2>
 
