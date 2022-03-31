@@ -18,7 +18,7 @@
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [JavaScript](https://www.ecma-international.org)
 
 <!-- SETUP -->
 <h2>🖥️ How to setup</h2>
