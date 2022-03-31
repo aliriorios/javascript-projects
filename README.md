@@ -31,13 +31,20 @@
 <p align="center">or</p>
 
 ```bash
-    # Clone the project
-    $ git clone https://github.com/aliriorios/calculator-js.git
+    # Download ZIP repository
+    $ git download https://github.com/aliriorios/javascript-projects/archive/refs/heads/main.zip
 ```
 
 ```bash
     # Enter directory
-    $ cd calculator-js
+    $ cd javascript-projects
+```
+
+<p align="center">or</p>
+
+```bash
+    # Enter directory
+    $ cd <project name>
 ```
 
 <!-- LICENSE -->
