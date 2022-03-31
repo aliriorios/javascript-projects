@@ -7,14 +7,16 @@
 <!-- INFO -->
 <h2>📝 About</h2>
 
-> Status: In Progress ⚠️ <!-- Completed ✅ or In Progress ⚠️ -->
+> ### Status:
+> In Progress ⚠️ <!-- Completed ✅ or In Progress ⚠️ -->
 
-> Description: Repository dedicated to learning the language and its technologies. It is about basic applications for my **JavaScript** development. As this is application and study material, there are no restrictions for copying and using the applications here. So, I hope you enjoy the content and use it only as personal study material or in development communities to share content.. <!-- Resume+icon **strong** --> 
+> ### Description:
+> Repository dedicated to learning the language and its technologies. It is about basic applications for my **JavaScript** development. As this is application and study material, there are no restrictions for copying and using the applications here. So, I hope you enjoy the content and use it only as personal study material or in development communities to share content. <!-- Resume+icon **strong** --> 
 
 <!-- TOOLS -->
 <h2>🛠️ Tools</h2> <!-- Language + documentation link -->
 
-> Languages:
+> ### Languages:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -23,6 +25,7 @@
 <!-- SETUP -->
 <h2>🖥️ How to setup</h2>
 
+> ### Repository:
 ```bash
     # Clone the complete repository
     $ git clone https://github.com/aliriorios/javascript-projects.git
@@ -35,6 +38,7 @@
     $ git download https://github.com/aliriorios/javascript-projects/archive/refs/heads/main.zip
 ```
 
+> ### Accessing the project:
 ```bash
     # Enter directory
     $ cd javascript-projects
