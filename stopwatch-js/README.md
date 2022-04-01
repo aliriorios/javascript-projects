@@ -17,7 +17,7 @@
 > In Progress ⚠️ 
 
 > ### Description:
-> 
+> **JavaScript** application of a stopwatch that counts the time remaining until the end of the current year.
 
 > ## Features:
 > 
