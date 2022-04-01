@@ -1,1 +1,89 @@
 @charset "UTF8";
+
+/* GLASSMORPHISM
+
+background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+
+    color: white;
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/* BODY ------------------------------------------- */
+body {
+    background-color: black;
+}
+
+/* BACKGROUND ------------------------------------- */
+#background {
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+    opacity: 0.5;
+}
+
+/* WATCH -------------------------------------------*/
+#watch {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    height: 400px;
+    width: 900px;
+
+    padding: 20px;
+
+    /* border: 1px solid blue; */
+}
+
+#watch h1 {
+    position: relative;
+
+    font-size: 50px;
+
+    text-transform: uppercase;
+    text-shadow: 2px 2px black;
+}
+
+/* TIMER ------------------------------------------ */
+#timer {
+    position: relative;
+    margin: auto;
+
+    border-spacing: 20px;
+    border-collapse: separate;
+
+    /* border: 1px solid red; */
+}
+
+#timer_count td {
+    font-size: 50px;
+
+    padding: 50px;
+
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    
+    /* border: 1px solid rgba(255, 255, 255, 0.1); */
+}
+
+#timer_text td {
+    font-size: 20px;
+
+    padding: 10px;
+}
