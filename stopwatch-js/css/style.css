@@ -88,3 +88,14 @@ body {
 
     padding: 10px;
 }
+
+/* NEXT YEAAR TEXT -------------------------------- */
+#nextYear {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+
+    font-size: 200px;
+    opacity: 0.1;
+    transform: translateX(-50%);
+  }
