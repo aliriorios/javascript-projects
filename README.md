@@ -5,7 +5,7 @@
 </h1>
 
 <!-- INDEX -->
-<h2>📇 Index:</h2>
+<h2>📇 Índice:</h2>
 
 - [Sobre](#-sobre)
 - [Ferramentas](#%EF%B8%8F-ferramentas)
