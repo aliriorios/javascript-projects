@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+ 
+<!-- HEAD ---------------------------------------------->
 
 <head>
     <meta charset="UTF-8">
@@ -10,21 +12,31 @@
     <link type="text/css" rel="stylesheet" href="css/style.css">
 </head>
 
+<!-- BODY ---------------------------------------------->
+
 <body>
+    <!-- BACKGROUND -->
     <div class="back_content">
 
+        <!-- CALCULATOR BACKGROUND -->
         <div id="section">
+
+            <!-- CALCULATOR -->
             <div class="calculator">
                 <h1>Calculator</h1>
 
+                <!-- onde vai aparecer o reesultado -->
                 <p id="result">
 
                 </p>
 
+                <!-- ALL BUTTONS -->
                 <table id="tbl_cal">
+
+                    <!-- os botões chamam a mesma função de inserção enviando o parâmetro (cada character de cada botão) -->
                     <tr>
-                        <td><button class="btn" onclick="clean()">C</button></td>
-                        <td><button class="btn" onclick="backspace()"><</button></td>
+                        <td><button class="btn" onclick="clean()">C</button></td> <!-- limpar os valorees -->
+                        <td><button class="btn" onclick="backspace()"><</button></td> <!-- deletando cada valor -->
                         <td><button class="btn" onclick="insert('/')">/</button></td>
                         <td><button class="btn" onclick="insert('*')">x</button></td>
                     </tr>
@@ -47,11 +59,11 @@
                         <td><button class="btn" onclick="insert('1')">1</button></td>
                         <td><button class="btn" onclick="insert('2')">2</button></td>
                         <td><button class="btn" onclick="insert('3')">3</button></td>
-                        <td rowspan="2"><button class="btn" style="height: 106px" onclick="calculate()">=</button></td>
+                        <td rowspan="2"><button class="btn" style="height: 106px" onclick="calculate()">=</button></td> <!-- calculando e ajustando o tamanho (height) -->
                     </tr>
 
                     <tr>
-                        <td colspan="2"><button class="btn" style="width: 106px;" onclick="insert('0')">0</button></td>
+                        <td colspan="2"><button class="btn" style="width: 106px;" onclick="insert('0')">0</button></td> <!-- ajustando o tamanho (width) -->
                         <td><button class="btn" onclick="insert('.')">.</button></td>
                     </tr>
                 </table>

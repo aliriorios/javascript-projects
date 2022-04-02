@@ -1,11 +1,24 @@
 @charset "UTF8";
 
+/* removendo espaçamento e margem padrão de TODOS OS ELEMENTOS */
 * {
     margin: 0;
     padding: 0;
 }
 
+/* BACKGROUND ------------------------------------------ */
+div.back_content {
+    background-image: linear-gradient(140deg, black, rgb(102, 208, 250));
+    height: 100vh;
+
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+/* BACKGROUND OF CALCULATOR ---------------------------- */
 div#section {
+    /* centralizando o elemento absoluto (e a calculadora) */
     position: absolute;
     top: 50%;
     left: 50%;
@@ -18,15 +31,7 @@ div#section {
     background-color: rgba(156, 156, 156, 0.2);
 }
 
-div.back_content {
-    background-image: linear-gradient(140deg, black, rgb(102, 208, 250));
-    height: 100vh;
-
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-}
-
+/* CALCULATOR ------------------------------------------ */
 div.calculator {
     position: relative;
 
@@ -36,12 +41,14 @@ div.calculator {
     padding: 15px;
 }
 
+/* TABLE */
 table#tbl_cal {
     position: relative;
 
     margin: auto;
 }
 
+/* BUTTONS */
 button.btn {
     background-color: rgb(31, 31, 31);
     border: none;
@@ -52,7 +59,7 @@ button.btn {
     font-size: 25px;
     color: white;
 
-    cursor: pointer;
+    cursor: pointer; /* alterando o cursor */
 
     margin: 2px;
 }
@@ -61,6 +68,7 @@ button.btn:hover {
     background-color: black;
 }
 
+/* RESULT */
 p#result {
     background-color: white;
     width: 214px;
