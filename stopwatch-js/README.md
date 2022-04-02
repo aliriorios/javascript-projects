@@ -5,27 +5,27 @@
 </h1>
 
 <!-- INDEX -->
-<h2>📇 Index:</h2>
+<h2>📇 Índice:</h2>
 
-- [About](#-about)
-- [Tools](#%EF%B8%8F-tools)
+- [Sobre](#-asobre)
+- [Ferramentas](#%EF%B8%8F-ferramentas)
 
 <!-- INFO -->
-<h2>📝 About</h2>
+<h2>📝 Sobre</h2>
 
 > ### Status:
-> In Progress ⚠️ 
+> Em desenvolvimento ⚠️ 
 
-> ### Description:
-> **JavaScript** application of a stopwatch that counts the time remaining until the end of the current year.
+> ### Descrição:
+> Aplicação em **JavaScript** de um cronômetro.
 
-> ## Features:
-> 
+> ## Funcionalidades:
+> Contabiliza o tempo restante para o fim de ano, ajustado dinâmicamente para cada ano.
 
 <!-- TOOLS -->
-<h2>🛠️ Tools</h2> <!-- Language + documentation link -->
+<h2>🛠️ Ferramentas</h2>
 
-> Languages:
+> Linguagens:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -34,6 +34,6 @@
 <hr>
 
 <!-- DONE BY -->
-<p align="center">Done by <strong>Alírio de Souza Rios</strong><br><br>
+<p align="center">Feito por <strong>Alírio de Souza Rios</strong><br><br>
 <img alt="Alirio-pic" height="130" src="https://media.discordapp.net/attachments/958760766931075114/958785341442097152/avatar.png">
 </p>

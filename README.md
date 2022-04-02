@@ -5,68 +5,68 @@
 </h1>
 
 <!-- INDEX -->
-<h2>📇 Index:</h2>
+<h2>📇 Índice:</h2>
 
-- [About](#-about)
-- [Tools](#%EF%B8%8F-tools)
-- [Setup](#%EF%B8%8F-how-to-setup)
-- [License](#-license)
+- [Sobre](#-sobre)
+- [Ferramentas](#%EF%B8%8F-ferramentas)
+- [Configuração](#%EF%B8%8F-como-configurar)
+- [Licença](#-licença)
 
 <!-- INFO -->
-<h2>📝 About</h2>
+<h2>📝 Sobre</h2>
 
 > ### Status:
-> In Progress ⚠️ <!-- Completed ✅ or In Progress ⚠️ -->
+> Em desenvolvimento ⚠️
 
-> ### Description:
-> Repository dedicated to learning the language and its technologies. It is about basic applications for my **JavaScript** development. As this is application and study material, there are no restrictions for copying and using the applications here. So, I hope you enjoy the content and use it only as personal study material or in development communities to share content. <!-- Resume+icon **strong** --> 
+> ### Descrição:
+> Repositório dedicado para o desenvolvimento e aprendizado da linguagem **JavaScript**. Se trata de aplicações básicas de projetos e exerecícios para o meu aprendizado em **JavaScript*, logo, se tratando de material de estudo, não existe nenhuma restrição para sua cópia e utilização em seus estudos pessoais ou em comunidades de aprendizado. Sendo assim, espero que encontre algo que possa utilizar para também aprender sobre essa tecnologia.
 
 <!-- TOOLS -->
-<h2>🛠️ Tools</h2> <!-- Language + documentation link -->
+<h2>🛠️ Ferramentas</h2> <!-- Language + documentation link -->
 
-> ### Languages:
+> ### Linguagens:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://www.ecma-international.org)
 
 <!-- SETUP -->
-<h2>🖥️ How to setup</h2>
+<h2>🖥️ Como configurar</h2>
 
-> ### Repository:
+> ### Repositório:
 ```bash
-    # Clone the complete repository
+    # Clone o repositório completo
     $ git clone https://github.com/aliriorios/javascript-projects.git
 ```
 
 <p align="center">or</p>
 
 ```bash
-    # Download ZIP repository
+    # Baixe o repositório completo
     $ git download https://github.com/aliriorios/javascript-projects/archive/refs/heads/main.zip
 ```
 
 > ### Accessing the project:
 ```bash
-    # Enter directory
+    # Entre no diretório
     $ cd javascript-projects
 ```
 
 <p align="center">or</p>
 
 ```bash
-    # Enter directory
+    # Entre no diretório (projeto)
     $ cd <project name>
 ```
 
 <!-- LICENSE -->
-<h2>🧾 License</h2>
+<h2>🧾 Licença</h2>
 
-> This project is under the MIT license. See the file <a href="https://github.com/aliriorios/javascript-projects/blob/main/LICENSE">LICENCE</a> for more details.
+> Este projeto está sobre a licença do MIT. Veja o arquivo <a href="https://github.com/aliriorios/javascript-projects/blob/main/LICENSE">LICENCE</a> para mais informações.
 
 <hr>
 
 <!-- DONE BY -->
-<p align="center">Done by <strong>Alírio de Souza Rios</strong><br><br>
+<p align="center">Feito por <strong>Alírio de Souza Rios</strong><br><br>
 <img alt="Alirio-pic" height="130" src="https://media.discordapp.net/attachments/958760766931075114/958785341442097152/avatar.png">
 </p>

@@ -5,27 +5,27 @@
 </h1>
 
 <!-- INDEX -->
-<h2>📇 Index:</h2>
+<h2>📇 Índice:</h2>
 
-- [About](#-about)
-- [Tools](#%EF%B8%8F-tools)
+- [Sobre](#-sobre)
+- [Ferramentas](#%EF%B8%8F-ferramentas)
 
 <!-- INFO -->
-<h2>📝 About</h2>
+<h2>📝 Sobre</h2>
 
 > ### Status:
-> Completed ✅
+> Completo ✅
 
-> ### Description:
-> A basic JavaScript application in a small **calculator project**. 🖩
+> ### Descrição:
+> Aplicação básica de uma **calculadora** simples em **JavaScript**. 🖩
 
-> ### Features:
-> Perform simple calculations by entering values and choosing operations. 📰
+> ### Funcionalidades:
+> Realiza cálculos simples. 📰
 
 <!-- TOOLS -->
-<h2>🛠️ Tools</h2>
+<h2>🛠️ Ferramentas</h2>
 
-> ### Languages:
+> ### Linguagens:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -34,7 +34,7 @@
 <hr>
 
 <!-- DONE BY -->
-<p align="center">Done by <strong>Alírio de Souza Rios</strong><br><br>
+<p align="center">Feito <strong>Alírio de Souza Rios</strong><br><br>
 <img alt="Alirio-pic" height="130" src="https://media.discordapp.net/attachments/958760766931075114/958785341442097152/avatar.png">
 </p>
 
