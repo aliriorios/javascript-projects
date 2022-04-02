@@ -46,7 +46,7 @@ body {
 
     padding: 20px;
 
-     border: 1px solid blue; 
+    /* border: 1px solid blue; */
 }
 
 #watch h1 {
@@ -66,7 +66,7 @@ body {
     border-spacing: 20px;
     border-collapse: separate;
 
-     border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #timer_count td {
@@ -80,16 +80,11 @@ body {
     -webkit-backdrop-filter: blur(10px);
     border-radius: 20px;
     
-     border: 1px solid rgba(255, 255, 255, 0.1); 
+    border: 1px solid rgba(255, 255, 255, 0.1); 
 }
 
 #timer_text td {
     font-size: 20px;
 
     padding: 10px;
-}
-
-/* RESULT ----------------------------------------- */
-#result {
-    border: 1px solid rgb(0, 255, 64);
 }
