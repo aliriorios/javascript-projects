@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">
-    <p>New Year's Stopwatch</p> 
-    <img src="" width="500px"> 
+    <p>Contagem para o Ano Novo</p> 
+    <img src="https://cdn.discordapp.com/attachments/958785083630841856/961066097430368346/Animacao.gif" width="720px"> 
 </h1>
 
 <!-- INDEX -->
@@ -17,7 +17,7 @@
 > Em desenvolvimento ⚠️ 
 
 > ### Descrição:
-> Aplicação em **JavaScript** de um cronômetro.
+> Aplicação em **JavaScript** de um cronômetro; aplicando funcionalidades de Array function, setInterval e Date.
 
 > ## Funcionalidades:
 > Contabiliza o tempo restante para o fim de ano, ajustado dinâmicamente para cada ano.

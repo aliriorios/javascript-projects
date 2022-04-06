@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">
     <p>JavaScript - Projects</p> <!-- title -->
-    <img src="https://media.discordapp.net/attachments/958785083630841856/959080254343905280/1_L_QoAG863l8QvqxpNyBiqw.gif" width="700px"> <!-- gif -->
+    <img src="https://media.discordapp.net/attachments/958785083630841856/959080254343905280/1_L_QoAG863l8QvqxpNyBiqw.gif" width="720px"> <!-- gif -->
 </h1>
 
 <!-- INDEX -->
