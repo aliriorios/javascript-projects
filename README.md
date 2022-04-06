@@ -39,7 +39,7 @@
     $ git clone https://github.com/aliriorios/javascript-projects.git
 ```
 
-<p align="center">or</p>
+<p align="center">ou</p>
 
 ```bash
     # Baixe o repositório completo
@@ -52,7 +52,7 @@
     $ cd javascript-projects
 ```
 
-<p align="center">or</p>
+<p align="center">ou</p>
 
 ```bash
     # Entre no diretório (projeto)
