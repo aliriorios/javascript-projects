@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">
     <p>Calculator</p>
-    <img src="https://media.discordapp.net/attachments/958785083630841856/958785892603011142/Animacao.gif" width="500px">
+    <img src="https://media.discordapp.net/attachments/958785083630841856/958785892603011142/Animacao.gif" width="720px">
 </h1>
 
 <!-- INDEX -->
