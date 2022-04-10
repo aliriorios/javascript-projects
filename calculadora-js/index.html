@@ -16,50 +16,52 @@
 
 <body>
     <!-- BACKGROUND -->
-    <div class="back_content">
+    <div class="back_content">    
 
-        <!-- CALCULATOR BACKGROUND -->
-        <div id="section">
+        <!-- CALCULATOR -->
+        <div class="calculator">
+            <header id="head">
+                <h1>Calculadora</h1>
 
-            <!-- CALCULATOR -->
-            <div class="calculator">
-                <h1>Calculator</h1>
+                
+            </header>
 
-                <!-- onde vai aparecer o reesultado -->
-                <p id="result">
+            <!-- onde vai aparecer o reesultado -->
+            <p id="result">
+                
+            </p>
 
-                </p>
-
+            <div id="table_bg">
                 <!-- ALL BUTTONS -->
                 <table id="tbl_cal">
 
                     <!-- os botões chamam a mesma função de inserção enviando o parâmetro (cada character de cada botão) -->
                     <tr>
-                        <td><button class="btn" onclick="clean()">C</button></td> <!-- limpar os valorees -->
-                        <td><button class="btn" onclick="backspace()"><</button></td> <!-- deletando cada valor -->
-                        <td><button class="btn" onclick="insert('/')">/</button></td>
-                        <td><button class="btn" onclick="insert('*')">x</button></td>
+                        <td><button class="btn_green" onclick="clean()">C</button></td> <!-- limpar os valorees -->
+                        <td><button class="btn_green" onclick="backspace()"><</button></td> <!-- deletando cada valor -->
+                        <td><button class="btn_red" onclick="insert('/')">/</button></td>
+                        <td><button class="btn_red" onclick="insert('*')">x</button></td>
                     </tr>
 
                     <tr>
                         <td><button class="btn" onclick="insert('7')">7</button></td>
                         <td><button class="btn" onclick="insert('8')">8</button></td>
                         <td><button class="btn" onclick="insert('9')">9</button></td>
-                        <td><button class="btn" onclick="insert('-')">-</button></td>
+                        <td><button class="btn_red" onclick="insert('-')">-</button></td>
                     </tr>
 
                     <tr>
                         <td><button class="btn" onclick="insert('4')">4</button></td>
                         <td><button class="btn" onclick="insert('5')">5</button></td>
                         <td><button class="btn" onclick="insert('6')">6</button></td>
-                        <td><button class="btn" onclick="insert('+')">+</button></td>
+                        <td><button class="btn_red" onclick="insert('+')">+</button></td>
                     </tr>
 
                     <tr>
                         <td><button class="btn" onclick="insert('1')">1</button></td>
                         <td><button class="btn" onclick="insert('2')">2</button></td>
                         <td><button class="btn" onclick="insert('3')">3</button></td>
-                        <td rowspan="2"><button class="btn" style="height: 106px" onclick="calculate()">=</button></td> <!-- calculando e ajustando o tamanho (height) -->
+                        <td rowspan="2"><button class="btn_red" style="height: 106px" onclick="calculate()">=</button></td> <!-- calculando e ajustando o tamanho (height) -->
                     </tr>
 
                     <tr>
