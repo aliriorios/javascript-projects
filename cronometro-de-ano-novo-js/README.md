@@ -14,7 +14,7 @@
 <h2>📝 Sobre</h2>
 
 > ### Status:
-> Em desenvolvimento ✅ 
+> Em desenvolvimento ✅
 
 > ### Descrição:
 > Aplicação em **JavaScript** de um cronômetro; aplicando funcionalidades de Array function, setInterval e Date.
