@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">
-    <p>Contagem para o Ano Novo</p> 
-    <img src="https://cdn.discordapp.com/attachments/958785083630841856/961066097430368346/Animacao.gif" width="720px"> 
+    <p>Lista de Tarefas (To Do)</p> 
+    <img src="" width="720px"> 
 </h1>
 
 <!-- INDEX -->
@@ -14,13 +14,13 @@
 <h2>📝 Sobre</h2>
 
 > ### Status:
-> Em desenvolvimento ✅ 
+> Em desenvolvimento ⚠️ 
 
 > ### Descrição:
-> Aplicação em **JavaScript** de um cronômetro; aplicando funcionalidades de Array function, setInterval e Date.
+> Um pequeno site para servir de agenda ou registro de tarefas a serem cumpridas.
 
 > ## Funcionalidades:
-> Contabiliza o tempo restante para o fim de ano, ajustado dinâmicamente para cada ano.
+> A ideia aqui é registrar as tarefas através de botões, campos de texto e ainda ter o tempo para realizar cada tarefa. Lembrando aqui que, as tarefas registradas são apenas temporárias, não existe a implementação de um banco de dados para guardar os dados, se trata apenas de uma pequena aplicação de JS.
 
 <!-- TOOLS -->
 <h2>🛠️ Ferramentas</h2>

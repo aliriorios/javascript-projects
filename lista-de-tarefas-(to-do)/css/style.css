@@ -1,0 +1,13 @@
+@charset "UTF8";
+
+/* PALHETA DE CORES: */
+:root {
+    --black: #0A0A0B;
+    --background: #8597B1;
+    --light-interface: #7F6560;
+    --dark-interface: #2B3D50;
+    --text-color: #D7CBC4;
+    --primary-color: #1AAC86;
+
+    /* Use var() para utilizar a palheta */
+}
