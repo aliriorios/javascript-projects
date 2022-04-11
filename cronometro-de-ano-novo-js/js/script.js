@@ -21,10 +21,12 @@ setInterval:
 */
 
 /*
-Array Function:
-- 
+Aplicando Arrow Function no setInterval:
+
+    let interval = setInterval(() => countDown(), second);
+
 */
-let interval = setInterval(() => CountDown(), second);
+let interval = setInterval(CountDown, second);
 
 window.document.getElementById('nextYear').innerText = nextYear; /* Apenas exibindo o próximo ano */
 
